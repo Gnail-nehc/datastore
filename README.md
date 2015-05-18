@@ -32,7 +32,8 @@
 
 ##创建表：
 以JSON字符串作为输入，以所见即所得的方式创建表结构及其初始数据集
-
+![image](https://github.com/Gnail-nehc/datastore/blob/master/screen1.png)
+![image](https://github.com/Gnail-nehc/datastore/blob/master/screen2.png)
 
 
 
